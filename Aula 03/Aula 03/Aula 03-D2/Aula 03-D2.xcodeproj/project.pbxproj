@@ -1,0 +1,363 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		04ACD9B12DF2399C00A8BECF /* Aula_03_D2App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04ACD9B02DF2399C00A8BECF /* Aula_03_D2App.swift */; };
+		04ACD9B32DF2399C00A8BECF /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04ACD9B22DF2399C00A8BECF /* ContentView.swift */; };
+		04ACD9B52DF2399E00A8BECF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04ACD9B42DF2399E00A8BECF /* Assets.xcassets */; };
+		04ACD9B82DF2399E00A8BECF /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04ACD9B72DF2399E00A8BECF /* Preview Assets.xcassets */; };
+		04ACD9BF2DF23B9400A8BECF /* Tela1View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04ACD9BE2DF23B9400A8BECF /* Tela1View.swift */; };
+		04F4A1062DF38754004C55C6 /* Tela2View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04F4A1052DF38754004C55C6 /* Tela2View.swift */; };
+		04F4A1082DF38768004C55C6 /* Tela3View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04F4A1072DF38768004C55C6 /* Tela3View.swift */; };
+		04F4A10A2DF38B7C004C55C6 /* Tela2-1View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04F4A1092DF38B7C004C55C6 /* Tela2-1View.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		04ACD9AD2DF2399C00A8BECF /* Aula 03-D2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Aula 03-D2.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		04ACD9B02DF2399C00A8BECF /* Aula_03_D2App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Aula_03_D2App.swift; sourceTree = "<group>"; };
+		04ACD9B22DF2399C00A8BECF /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		04ACD9B42DF2399E00A8BECF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		04ACD9B72DF2399E00A8BECF /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		04ACD9BE2DF23B9400A8BECF /* Tela1View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tela1View.swift; sourceTree = "<group>"; };
+		04F4A1052DF38754004C55C6 /* Tela2View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tela2View.swift; sourceTree = "<group>"; };
+		04F4A1072DF38768004C55C6 /* Tela3View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tela3View.swift; sourceTree = "<group>"; };
+		04F4A1092DF38B7C004C55C6 /* Tela2-1View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Tela2-1View.swift"; sourceTree = SOURCE_ROOT; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		04ACD9AA2DF2399C00A8BECF /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		04ACD9A42DF2399C00A8BECF = {
+			isa = PBXGroup;
+			children = (
+				04ACD9AF2DF2399C00A8BECF /* Aula 03-D2 */,
+				04ACD9AE2DF2399C00A8BECF /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		04ACD9AE2DF2399C00A8BECF /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				04ACD9AD2DF2399C00A8BECF /* Aula 03-D2.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		04ACD9AF2DF2399C00A8BECF /* Aula 03-D2 */ = {
+			isa = PBXGroup;
+			children = (
+				04F4A1092DF38B7C004C55C6 /* Tela2-1View.swift */,
+				04F4A1072DF38768004C55C6 /* Tela3View.swift */,
+				04F4A1052DF38754004C55C6 /* Tela2View.swift */,
+				04ACD9BE2DF23B9400A8BECF /* Tela1View.swift */,
+				04ACD9B02DF2399C00A8BECF /* Aula_03_D2App.swift */,
+				04ACD9B22DF2399C00A8BECF /* ContentView.swift */,
+				04ACD9B42DF2399E00A8BECF /* Assets.xcassets */,
+				04ACD9B62DF2399E00A8BECF /* Preview Content */,
+			);
+			path = "Aula 03-D2";
+			sourceTree = "<group>";
+		};
+		04ACD9B62DF2399E00A8BECF /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				04ACD9B72DF2399E00A8BECF /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		04ACD9AC2DF2399C00A8BECF /* Aula 03-D2 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 04ACD9BB2DF2399E00A8BECF /* Build configuration list for PBXNativeTarget "Aula 03-D2" */;
+			buildPhases = (
+				04ACD9A92DF2399C00A8BECF /* Sources */,
+				04ACD9AA2DF2399C00A8BECF /* Frameworks */,
+				04ACD9AB2DF2399C00A8BECF /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Aula 03-D2";
+			productName = "Aula 03-D2";
+			productReference = 04ACD9AD2DF2399C00A8BECF /* Aula 03-D2.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		04ACD9A52DF2399C00A8BECF /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1520;
+				LastUpgradeCheck = 1520;
+				TargetAttributes = {
+					04ACD9AC2DF2399C00A8BECF = {
+						CreatedOnToolsVersion = 15.2;
+					};
+				};
+			};
+			buildConfigurationList = 04ACD9A82DF2399C00A8BECF /* Build configuration list for PBXProject "Aula 03-D2" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 04ACD9A42DF2399C00A8BECF;
+			productRefGroup = 04ACD9AE2DF2399C00A8BECF /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				04ACD9AC2DF2399C00A8BECF /* Aula 03-D2 */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		04ACD9AB2DF2399C00A8BECF /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				04ACD9B82DF2399E00A8BECF /* Preview Assets.xcassets in Resources */,
+				04ACD9B52DF2399E00A8BECF /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		04ACD9A92DF2399C00A8BECF /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				04ACD9B32DF2399C00A8BECF /* ContentView.swift in Sources */,
+				04F4A1082DF38768004C55C6 /* Tela3View.swift in Sources */,
+				04F4A1062DF38754004C55C6 /* Tela2View.swift in Sources */,
+				04ACD9B12DF2399C00A8BECF /* Aula_03_D2App.swift in Sources */,
+				04F4A10A2DF38B7C004C55C6 /* Tela2-1View.swift in Sources */,
+				04ACD9BF2DF23B9400A8BECF /* Tela1View.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		04ACD9B92DF2399E00A8BECF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.2;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		04ACD9BA2DF2399E00A8BECF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.2;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		04ACD9BC2DF2399E00A8BECF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Aula 03-D2/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "aluno07.Aula-03-D2";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		04ACD9BD2DF2399E00A8BECF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Aula 03-D2/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "aluno07.Aula-03-D2";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		04ACD9A82DF2399C00A8BECF /* Build configuration list for PBXProject "Aula 03-D2" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				04ACD9B92DF2399E00A8BECF /* Debug */,
+				04ACD9BA2DF2399E00A8BECF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		04ACD9BB2DF2399E00A8BECF /* Build configuration list for PBXNativeTarget "Aula 03-D2" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				04ACD9BC2DF2399E00A8BECF /* Debug */,
+				04ACD9BD2DF2399E00A8BECF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 04ACD9A52DF2399C00A8BECF /* Project object */;
+}
